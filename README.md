@@ -1,7 +1,7 @@
 
 <h3 align="center">MERN Stack Developer | Azure DevOps | Software Engineer | Both Frontend and Backend Development</h3>
 <hr>
-<h6>💫 About Me: </h6>
+<h4>💫 About Me: </h4>
 🌱 I’m currently learning Azure Devops, Cloud Computing, AI<br>👨‍💻 All of my projects are available at https://syedirfan-portfolio.netlify.app/<br>💬 Ask me about React.JS , JavaScript , MERN Stack<br>📫 How to reach me syedirfan8079@gmail.com
 
 
