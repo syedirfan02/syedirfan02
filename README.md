@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=SyedIrfan02&icon=2&color=10)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🌱 I’m currently learning Azure Devops, Cloud Computing, AI<br>👨‍💻 All of my projects are available at https://syedirfan-portfolio.netlify.app/<br>💬 Ask me about React.JS , JavaScript , MERN Stack<br>📫 How to reach me syedirfan8079@gmail.com
 
@@ -22,6 +23,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SyedIrfan02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SyedIrfan02&icon=2&color=10)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
